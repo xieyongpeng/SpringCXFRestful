@@ -14,7 +14,7 @@
 	<url>http://www.example.com</url>
 
 	<properties>
-		<spring.version>5.0.2.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
     	<jackson.version>1.9.2</jackson.version>
 	</properties>
 
